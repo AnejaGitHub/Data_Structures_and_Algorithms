@@ -1,0 +1,1 @@
+This repository contains **Data Structures** and **Algorithms** implemented in **Java**. The goal is to provide clean, efficient, and well-documented code for learning, coding interviews, and competitive programming.
