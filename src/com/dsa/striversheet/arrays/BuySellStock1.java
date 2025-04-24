@@ -3,8 +3,6 @@ package com.dsa.striversheet.arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
-//import ReadInputs class => com.dsa.readiputs.ReadInputs;
-
 import com.dsa.readinputs.ReadInputs;
 
 public class BuySellStock1 {
